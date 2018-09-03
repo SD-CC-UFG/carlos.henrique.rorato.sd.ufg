@@ -10,3 +10,7 @@ Servidor e Cliente TCP básicos.
 ## Entrega 2
 
 Servidor e Cliente TCP com suporte à múltiplos usuários utilizando threads.
+
+## Entrega 3
+
+Servidor e Cliente TCP com Thread distribuída.
