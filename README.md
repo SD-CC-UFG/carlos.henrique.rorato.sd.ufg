@@ -13,4 +13,16 @@ Servidor e Cliente TCP com suporte à múltiplos usuários utilizando threads.
 
 ## Entrega 3
 
-Servidor e Cliente TCP com Thread distribuída.
+Chat simples com Thread Pool.
+
+## Entrega 4
+
+Escalabilidade com multithread e mandando mensagem atraves de objeto utilizando pickle.
+
+## Entrega 5
+
+Problemas da lista 1 resolvidos com RPC.
+
+## Entrega 6
+
+Comunicação cliente/servidor utilizando linguagens distintas: servidor em java e cliente em python.
