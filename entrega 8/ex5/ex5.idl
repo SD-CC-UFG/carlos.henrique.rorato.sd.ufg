@@ -1,0 +1,5 @@
+module Exercicio{
+  interface ServidorExercicio{
+    string classifica(short idade);
+  };
+};

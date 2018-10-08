@@ -26,3 +26,11 @@ Problemas da lista 1 resolvidos com RPC.
 ## Entrega 6
 
 Comunicação cliente/servidor utilizando linguagens distintas: servidor em java e cliente em python.
+
+## Entrega 7
+
+Problemas da lista 1 resolvidos com RMI.
+
+## Entrega 8
+
+Problemas da lista 1 resolvidos com CORBA.

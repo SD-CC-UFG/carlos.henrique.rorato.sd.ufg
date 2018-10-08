@@ -1,0 +1,5 @@
+module Exercicio{
+  interface ServidorExercicio{
+    string maioridade(String nome, String sexo, Short idade);
+  };
+};

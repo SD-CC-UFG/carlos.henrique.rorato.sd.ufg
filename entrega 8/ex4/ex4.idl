@@ -1,0 +1,5 @@
+module Exercicio{
+  interface ServidorExercicio{
+    Float pIdeal(Float altura, String sexo);
+  };
+};
